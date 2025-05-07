@@ -1,0 +1,1 @@
+// Conteúdo exemplo para Catalog.js
